@@ -11,5 +11,4 @@ public class AppController {
     public String getClicks(@PathVariable String tiny) {
         return "hello";
     }
-
 }
